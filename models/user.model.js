@@ -10,7 +10,7 @@ var userSchema = new mongoose.Schema({
     Mobile: {
         type: String
     },
-    Passowrd: {
+    Password: {
         type: String
     },
     Username: {
